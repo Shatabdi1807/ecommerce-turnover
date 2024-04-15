@@ -1,4 +1,4 @@
-#E-Commerce 
+E-Commerce 
 - Website Sign-up/Login with Category Selection
 Welcome to the E-Commerce Website Sign-up/Login with Category Selection project! This application allows users to register, login, and select categories of interest for their shopping preferences.
 
