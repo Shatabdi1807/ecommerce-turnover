@@ -11,6 +11,7 @@ Tech Stack
 - Framework: Next.js
 - APIs: tRPC
 - Database ORM: Prisma
+- Database: PostgreSQL
 - CSS: Tailwind CSS
 
 Installation
